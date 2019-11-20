@@ -4,14 +4,15 @@
 
 import random
 
-def solve_aco_knapsack(capacity, items, ant_count=50, iteration_count=100, min_trail=1e-7, random_seed=None, trace=True):
+def solve_aco_knapsack(capacity, items, ant_count=50, iteration_count=100, min_trail=1e-7, trail_decay = 0.7, random_seed=None, trace=True):
     """
 
     :param capacity: Max capacity of the knapsack
     :param items: list of items, of form [weight, value]
     :param ant_count: number of ants to be used
     :param iteration_count: number of iterations until process is stopped
-    :param min_trail: minimum amount of pheromon trail (i.e. probability to choose an item)
+    :param min_trail: minimum amount of pheromone trail (i.e. probability to choose an item)
+    :param trail_decay: percentage of pheromones lost after each iteration (rho from slides)
     :param random_seed: may be used to get reproducible results
     :param trace: if true, detailed info is printed
     :return: dict with key "fitness" giving value of best solution and "items", giving chosen items
@@ -21,7 +22,7 @@ def solve_aco_knapsack(capacity, items, ant_count=50, iteration_count=100, min_t
         random.seed(random_seed)
 
     original_idx = sorted(range(len(items)), key=items.__getitem__)
-    items = sorted(items, key=lambda x: x[0])
+    items = sorted(items, key=lambda x: -x[0])
 
     # tau from slides, global amount of pheromones deposited
     trail = [1] * len(items) # all are equal at the start
@@ -83,14 +84,21 @@ def solve_aco_knapsack(capacity, items, ant_count=50, iteration_count=100, min_t
     def update_trails(fitness_store):
         """
         updates global pheromone trail based on global information
+        distributes pheromones of one ant equally to all chosen items
         :param fitness_store:
         :return:
         """
         fitness_sum = sum([sol["fitness"] for sol in fitness_store])
+        trail_delta = [0 for t in trail]
         for idx in range(len(fitness_store)):
             fitness = fitness_store[idx]["fitness"]/fitness_sum
-            fitness = max([fitness, min_trail])
-            trail[idx] = fitness
+            for item_idx in fitness_store[idx]["items"]:
+                trail_delta[item_idx] += fitness
+
+        for idx in range(len(trail_delta)):
+            trail[idx] = trail[idx]*(1-trail_decay) + trail_delta[idx]*(trail_decay)
+            trail[idx] = max(trail[idx], min_trail)
+            trail[idx] = min(trail[idx], 1) # cap at 1
 
     for iter in range(iteration_count):
         best_solution = run_iteration(best_solution)
