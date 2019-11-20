@@ -87,7 +87,7 @@ def solve_aco_knapsack(capacity, items, ant_count=50, iteration_count=100, min_t
         :return:
         """
         fitness_sum = sum([sol["fitness"] for sol in fitness_store])
-        for idx in range(len(trail)):
+        for idx in range(len(fitness_store)):
             fitness = fitness_store[idx]["fitness"]/fitness_sum
             fitness = max([fitness, min_trail])
             trail[idx] = fitness
