@@ -4,7 +4,7 @@
 
 import random
 
-def solve_aco_knapsack(capacity, items, ant_count=50, iteration_count=100, min_trail=1e-7, random_seed=123324, trace=True):
+def solve_aco_knapsack(capacity, items, ant_count=50, iteration_count=100, min_trail=1e-7, random_seed=None, trace=True):
     """
 
     :param capacity: Max capacity of the knapsack
