@@ -1,2 +1,4 @@
 deap
 ACO-Pants
+numpy
+pandas
