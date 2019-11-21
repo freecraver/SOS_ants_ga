@@ -17,7 +17,7 @@ def solve_ga(capacity, instances):
     return best[1]
 
 def solve_aco(capacity, instances):
-    res = solve_aco_knapsack(capacity, instances)
+    res = solve_aco_knapsack(capacity, instances, ant_count=10, iteration_count=50)
     return res["fitness"]
 
 def solve_instance(instance_name, capacity, instances):
