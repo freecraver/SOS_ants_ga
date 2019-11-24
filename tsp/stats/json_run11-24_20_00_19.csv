@@ -1,0 +1,101 @@
+instance,method,value,execution_time,run
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F914B9B08>, <deap.tools.support.Statistics object at 0x0000023F917F8FC8>)",0.36602115631103516,1
+att48.json,ACO,"37064	1,8,38,31,44,18,36,7,28,6,30,43,27,37,19,17,20,47,21,13,25,14,39,32,24,10,42,35,45,26,4,2,48,5,29,34,41,16,22,3,23,11,12,33,46,15,40,9",15.194132566452026,1
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90A01C88>, <deap.tools.support.Statistics object at 0x0000023F917ED848>)",0.289243221282959,2
+att48.json,ACO,"36732	1,8,9,38,31,44,18,36,28,7,37,19,27,43,17,6,30,15,12,11,23,39,32,48,5,42,24,10,45,35,4,26,2,29,41,16,22,3,34,14,25,13,21,47,20,33,46,40",13.961453676223755,2
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F91851B48>, <deap.tools.support.Statistics object at 0x0000023F9185D6C8>)",0.3341820240020752,3
+att48.json,ACO,"35463	1,8,22,16,41,34,3,23,11,13,14,25,29,2,26,4,35,45,24,10,42,5,48,39,32,21,47,20,12,40,15,46,33,36,7,28,37,19,27,17,43,30,6,18,44,31,38,9",14.366877555847168,3
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90308D08>, <deap.tools.support.Statistics object at 0x0000023F90AF2C08>)",0.3219778537750244,4
+att48.json,ACO,"35715	1,38,31,44,18,7,28,30,27,43,17,19,6,37,36,33,46,15,12,11,23,13,47,20,21,39,32,24,10,45,35,4,26,42,2,29,5,48,25,14,34,41,16,22,3,40,9,8",14.253231048583984,4
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90A81788>, <deap.tools.support.Statistics object at 0x0000023F90A64BC8>)",0.3065066337585449,5
+att48.json,ACO,"36439	1,8,38,31,44,18,36,7,28,37,6,30,43,27,19,17,46,33,11,23,14,25,13,3,22,16,41,34,48,5,29,2,42,10,26,4,35,45,24,32,39,21,47,20,12,15,40,9",14.382124900817871,5
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F9183C1C8>, <deap.tools.support.Statistics object at 0x0000023F90A58108>)",0.2860686779022217,6
+att48.json,ACO,"35774	1,40,15,12,11,23,3,22,16,41,34,25,14,29,2,26,4,35,45,24,10,42,5,48,39,32,21,13,47,20,33,46,7,28,27,19,37,6,30,43,17,36,18,44,31,38,9,8",14.34704875946045,6
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F9046CF88>, <deap.tools.support.Statistics object at 0x0000023F91870808>)",0.29032015800476074,7
+att48.json,ACO,"37150	1,8,38,31,44,18,36,28,7,43,17,27,37,19,6,30,33,46,15,20,12,47,13,21,39,32,24,10,45,35,4,26,42,2,29,5,48,25,14,23,11,3,22,16,41,34,40,9",14.708763360977173,7
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F9059F648>, <deap.tools.support.Statistics object at 0x0000023F8E0E6348>)",0.30216503143310547,8
+att48.json,ACO,"35577	1,8,38,31,44,18,7,28,36,43,27,17,30,6,19,37,20,47,21,13,14,25,39,32,48,5,42,10,24,45,35,26,4,2,29,34,41,16,22,3,23,11,12,33,46,15,40,9",14.394805669784546,8
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F902DD888>, <deap.tools.support.Statistics object at 0x0000023F91898748>)",0.34511685371398926,9
+att48.json,ACO,"36676	1,8,38,31,44,18,7,28,36,30,6,37,43,27,19,17,20,47,33,46,15,12,11,23,14,25,13,21,39,32,24,45,35,4,26,10,42,48,5,29,2,34,41,16,22,3,40,9",14.424775838851929,9
+att48.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90DE1C48>, <deap.tools.support.Statistics object at 0x0000023F91821348>)",0.28828859329223633,10
+att48.json,ACO,"34724	1,8,38,31,44,7,18,36,28,30,6,37,19,27,43,17,33,46,15,12,20,47,11,23,14,25,13,21,32,39,48,5,42,10,24,45,35,4,26,2,29,34,41,16,22,3,40,9",14.08126974105835,10
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F905F6088>, <deap.tools.support.Statistics object at 0x0000023F904F6148>)",0.19747591018676758,1
+fifteen.json,ACO,"291	0,10,3,5,7,9,13,11,2,6,4,8,14,1,12",0.5505273342132568,1
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F91729408>, <deap.tools.support.Statistics object at 0x0000023F90A36788>)",0.21143484115600586,2
+fifteen.json,ACO,"291	0,12,1,14,8,4,6,2,11,13,9,7,5,3,10",0.5222747325897217,2
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F917293C8>, <deap.tools.support.Statistics object at 0x0000023F9173BA48>)",0.21094775199890137,3
+fifteen.json,ACO,"291	0,12,1,14,8,4,6,2,11,13,9,7,5,3,10",0.5369858741760254,3
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F906DAF88>, <deap.tools.support.Statistics object at 0x0000023F90B8F748>)",0.2034592628479004,4
+fifteen.json,ACO,"291	0,12,1,14,8,4,6,2,11,13,9,7,5,3,10",0.5505287647247314,4
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F8E0EC3C8>, <deap.tools.support.Statistics object at 0x0000023F907593C8>)",0.22041010856628418,5
+fifteen.json,ACO,"291	0,12,1,14,8,4,6,2,11,13,9,7,5,3,10",0.5462369918823242,5
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F917EE508>, <deap.tools.support.Statistics object at 0x0000023F91741908>)",0.20806550979614258,6
+fifteen.json,ACO,"291	0,12,1,14,8,4,6,2,11,13,9,7,5,3,10",0.5483198165893555,6
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90B6F7C8>, <deap.tools.support.Statistics object at 0x0000023F909FC088>)",0.2503347396850586,7
+fifteen.json,ACO,"291	0,12,1,14,8,4,6,2,11,13,9,7,5,3,10",0.5515267848968506,7
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90329988>, <deap.tools.support.Statistics object at 0x0000023F900C82C8>)",0.21043634414672852,8
+fifteen.json,ACO,"291	0,12,1,14,8,4,6,2,11,13,9,7,5,3,10",0.5498971939086914,8
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90C09A48>, <deap.tools.support.Statistics object at 0x0000023F90C5FA88>)",0.20404314994812012,9
+fifteen.json,ACO,"291	0,12,1,14,8,4,6,2,11,13,9,7,5,3,10",0.5312013626098633,9
+fifteen.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90706BC8>, <deap.tools.support.Statistics object at 0x0000023F90618348>)",0.21143364906311035,10
+fifteen.json,ACO,"291	0,12,1,14,8,4,6,2,11,13,9,7,5,3,10",0.5328667163848877,10
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F902E9908>, <deap.tools.support.Statistics object at 0x0000023F9027A448>)",0.22276997566223145,1
+fri26.json,ACO,"941	0,24,23,22,25,21,20,16,17,19,18,15,10,12,11,14,13,9,8,7,6,5,4,3,2,1",2.045299530029297,1
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F914B2588>, <deap.tools.support.Statistics object at 0x0000023F91846848>)",0.2400529384613037,2
+fri26.json,ACO,"946	0,1,2,5,3,4,6,7,8,9,13,14,12,11,10,15,18,19,17,16,20,21,25,22,23,24",2.1101622581481934,2
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F8C76F208>, <deap.tools.support.Statistics object at 0x0000023F90C573C8>)",0.30261659622192383,3
+fri26.json,ACO,"961	0,1,2,4,3,5,6,7,8,9,13,14,11,10,12,15,18,19,17,16,20,21,25,22,23,24",1.9805517196655273,3
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F91740908>, <deap.tools.support.Statistics object at 0x0000023F8E0E8588>)",0.22839879989624023,4
+fri26.json,ACO,"940	0,1,2,3,5,4,6,7,8,9,13,14,11,12,10,15,18,19,17,16,20,25,21,22,23,24",1.996274709701538,4
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F902E8988>, <deap.tools.support.Statistics object at 0x0000023F901CB848>)",0.23012876510620117,5
+fri26.json,ACO,"969	0,14,2,1,3,5,4,6,7,8,9,13,12,11,10,15,18,19,17,16,20,25,21,22,23,24",2.0560739040374756,5
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F914E1488>, <deap.tools.support.Statistics object at 0x0000023F90A797C8>)",0.22850966453552246,6
+fri26.json,ACO,"975	0,1,4,3,5,6,7,8,9,13,2,14,11,12,10,15,18,19,17,16,20,21,25,22,23,24",2.008605480194092,6
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F8E115448>, <deap.tools.support.Statistics object at 0x0000023F90989708>)",0.2376844882965088,7
+fri26.json,ACO,"976	0,24,23,22,25,21,20,16,17,19,18,15,7,6,4,5,3,1,2,13,9,8,10,11,12,14",2.0270118713378906,7
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F901C1D48>, <deap.tools.support.Statistics object at 0x0000023F91881648>)",0.2233283519744873,8
+fri26.json,ACO,"955	0,1,3,5,4,2,13,14,11,12,10,9,8,6,7,15,18,19,17,16,20,21,25,22,23,24",2.0666050910949707,8
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F8E16BB88>, <deap.tools.support.Statistics object at 0x0000023F9173A308>)",0.2553110122680664,9
+fri26.json,ACO,"946	0,24,23,22,21,25,20,16,17,19,18,15,10,12,11,14,13,9,8,7,6,5,3,4,2,1",2.0438146591186523,9
+fri26.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90ABAA88>, <deap.tools.support.Statistics object at 0x0000023F90A64888>)",0.2324376106262207,10
+fri26.json,ACO,"940	0,24,23,22,21,25,20,16,17,19,18,15,10,12,11,14,13,9,8,7,6,4,5,3,2,1",2.0319693088531494,10
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F91461C88>, <deap.tools.support.Statistics object at 0x0000023F917AA348>)",0.2774171829223633,1
+gr17.json,ACO,"2156	0,6,7,5,16,13,2,14,9,1,4,10,8,11,15,3,12",0.5735981464385986,1
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F91461148>, <deap.tools.support.Statistics object at 0x0000023F9140E108>)",0.20744681358337402,2
+gr17.json,ACO,"2169	0,12,3,6,7,16,5,13,14,2,10,4,1,9,8,11,15",0.5954926013946533,2
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F914F6908>, <deap.tools.support.Statistics object at 0x0000023F901B3AC8>)",0.21505236625671387,3
+gr17.json,ACO,"2149	0,15,11,8,9,1,4,10,2,14,13,16,5,7,6,12,3",0.5605480670928955,3
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F905C3F88>, <deap.tools.support.Statistics object at 0x0000023F909AE088>)",0.2074577808380127,4
+gr17.json,ACO,"2085	0,15,11,8,4,1,9,10,2,14,13,16,5,7,6,12,3",0.5620090961456299,4
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F901B3CC8>, <deap.tools.support.Statistics object at 0x0000023F901D47C8>)",0.23237824440002441,5
+gr17.json,ACO,"2149	0,15,11,8,9,1,4,10,2,14,13,16,5,7,6,12,3",0.5791137218475342,5
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F900C8088>, <deap.tools.support.Statistics object at 0x0000023F901D43C8>)",0.21941471099853516,6
+gr17.json,ACO,"2104	0,12,3,16,6,7,5,13,14,2,10,9,1,4,8,11,15",0.590446949005127,6
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90738088>, <deap.tools.support.Statistics object at 0x0000023F917C59C8>)",0.22242403030395508,7
+gr17.json,ACO,"2099	0,6,7,16,5,13,14,2,10,9,1,4,8,11,15,3,12",0.5490732192993164,7
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90767E48>, <deap.tools.support.Statistics object at 0x0000023F914E1CC8>)",0.26928067207336426,8
+gr17.json,ACO,"2149	0,15,11,8,9,1,4,10,2,14,13,16,5,7,6,12,3",0.5855321884155273,8
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90218FC8>, <deap.tools.support.Statistics object at 0x0000023F909AEDC8>)",0.2260746955871582,9
+gr17.json,ACO,"2162	0,12,3,6,7,5,16,13,2,14,9,1,4,10,8,11,15",0.6722438335418701,9
+gr17.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F906DAA08>, <deap.tools.support.Statistics object at 0x0000023F90C57808>)",0.2513282299041748,10
+gr17.json,ACO,"2159	0,3,12,6,16,7,5,13,14,2,10,4,1,9,8,11,15",0.6424427032470703,10
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90B6FE88>, <deap.tools.support.Statistics object at 0x0000023F9142E2C8>)",0.2622995376586914,1
+gr24.json,ACO,"1298	0,11,3,22,8,12,13,19,1,14,18,16,21,17,2,10,6,7,20,9,4,23,5,15",1.6455461978912354,1
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F8E0ECC08>, <deap.tools.support.Statistics object at 0x0000023F9140EA08>)",0.22881841659545898,2
+gr24.json,ACO,"1286	0,11,3,22,8,12,13,19,1,14,18,21,17,2,10,6,7,20,16,9,4,23,5,15",1.625964641571045,2
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F909AE408>, <deap.tools.support.Statistics object at 0x0000023F8F3EC108>)",0.21692776679992676,3
+gr24.json,ACO,"1279	0,11,3,22,8,12,13,19,1,14,18,17,21,16,9,4,20,23,5,7,6,2,10,15",1.615715742111206,3
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F917CC8C8>, <deap.tools.support.Statistics object at 0x0000023F917EE3C8>)",0.2792537212371826,4
+gr24.json,ACO,"1278	0,15,10,2,20,7,6,5,23,4,9,16,21,17,18,14,1,19,13,12,8,22,3,11",1.5997238159179688,4
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F90260EC8>, <deap.tools.support.Statistics object at 0x0000023F8F400F08>)",0.2403581142425537,5
+gr24.json,ACO,"1326	0,15,5,23,2,10,6,7,4,20,9,16,17,21,18,14,1,19,13,12,8,22,3,11",1.5400965213775635,5
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F904243C8>, <deap.tools.support.Statistics object at 0x0000023F901F0A88>)",0.2298593521118164,6
+gr24.json,ACO,"1279	0,15,10,2,6,7,5,23,20,4,9,16,21,17,18,14,1,19,13,12,8,22,3,11",1.5887174606323242,6
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F917546C8>, <deap.tools.support.Statistics object at 0x0000023F90B8A888>)",0.221266508102417,7
+gr24.json,ACO,"1282	0,15,10,2,6,23,5,7,20,4,9,16,21,17,18,14,1,19,13,12,8,22,3,11",1.672422170639038,7
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F907BD708>, <deap.tools.support.Statistics object at 0x0000023F902E15C8>)",0.22335505485534668,8
+gr24.json,ACO,"1279	0,15,10,2,6,7,5,23,20,4,9,16,21,17,18,14,1,19,13,12,8,22,3,11",1.6050896644592285,8
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F9099ED08>, <deap.tools.support.Statistics object at 0x0000023F917A40C8>)",0.23836255073547363,9
+gr24.json,ACO,"1278	0,11,3,22,8,12,13,19,1,14,18,17,21,16,9,4,23,5,6,7,20,2,10,15",1.5789930820465088,9
+gr24.json,GA,"(<deap.tools.support.HallOfFame object at 0x0000023F91800788>, <deap.tools.support.Statistics object at 0x0000023F90B8AFC8>)",0.21895194053649902,10
+gr24.json,ACO,"1272	0,15,10,2,6,5,23,7,20,4,9,16,21,17,18,14,1,19,13,12,8,22,3,11",1.6571362018585205,10
